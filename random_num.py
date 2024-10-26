@@ -16,8 +16,7 @@ Registration_no = random_num
 print("Licence Number: " , random_num)
 print("Engine No: ", random_eng)
 
-print('''vahicle_class = Motor Car (LMV)
-feul_type = Petrol
+print('''vahicle_class = Motor Car 
 Car_insuranceDate = 29-8-23
 insurance_expiry = 31-12-30
 Licence Current Type: Car/Jeep
@@ -30,6 +29,10 @@ On your new car
                       hamna
                         Yaya Luxury Wheels '''
 print(message.replace("<|Name|> ",owner))
+
+
+
+
 
 
 
