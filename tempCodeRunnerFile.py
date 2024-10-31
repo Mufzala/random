@@ -1,1 +1,4 @@
-print("Engine No: ", random_eng)
+if(q>=18):
+#     print("Yes")
+# else:
+#     print("No")
